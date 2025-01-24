@@ -1,1 +1,2 @@
 # Integracion-de-Datos-y-Prospectiva
+La **integración de datos** es el proceso de combinar información de diversas fuentes para ofrecer una vista unificada y coherente. Facilita el acceso y análisis de datos, mejorando la toma de decisiones empresariales. La **prospectiva** se refiere a la anticipación y análisis de tendencias futuras basadas en datos integrados, ayudando a las organizaciones a planificar estratégicamente.
